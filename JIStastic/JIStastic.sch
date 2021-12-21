@@ -67,7 +67,7 @@ F 6 "BAV70" H 2350 1050 50  0001 C CNN "Part#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:HRO-TYPE-C-31-M-12 USB1
+L JIStastic-rescue:HRO-TYPE-C-31-M-12-keebio USB1
 U 1 1 61897B4A
 P 1950 14450
 F 0 "USB1" H 1783 15247 60  0000 C CNN
@@ -81,7 +81,7 @@ F 6 "TYPE-C-31-M-12" H 1950 14450 50  0001 C CNN "Part#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:PRTR5V0U2X U1
+L JIStastic-rescue:PRTR5V0U2X-keebio U1
 U 1 1 61898C05
 P 3900 14825
 F 0 "U1" H 3900 15100 50  0000 C CNN
@@ -92,7 +92,7 @@ F 3 "" H 3850 14925 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L kbd:SW_PUSH SW7
+L JIStastic-rescue:SW_PUSH-kbd SW7
 U 1 1 61899E47
 P 2775 9625
 F 0 "SW7" H 2775 9880 50  0000 C CNN
